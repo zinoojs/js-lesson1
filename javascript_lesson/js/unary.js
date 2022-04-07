@@ -1,0 +1,15 @@
+let a = 10;
+a = a + 1;
+a += 1;
+let c = ++a;
+let d = a++;
+// a--;
+console.log(a);
+console.log(c);
+console.log(d);
+// let b = 10;
+// b += 10;
+// b -= 10;
+// b *= 10;
+// b /= 10;
+// b %= 10;
